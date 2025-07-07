@@ -14,7 +14,7 @@
 ### 2.角色行走和瞄准
 
 <div align="center">
-  <img src="gif/第三人称射击/2.gif" alt="角色行走和瞄准" width="1200"  height="auto"/>
+  <img src="gif/第三人称射击/5.gif" alt="角色行走和瞄准" width="1200"  height="auto"/>
   <p style="font-size: 18px;"><strong>角色行走和瞄准</strong></p>
 </div>
 

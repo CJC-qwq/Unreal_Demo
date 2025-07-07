@@ -4,22 +4,22 @@
 
 ## 功能展示
 
-### 敌人AI
+### 1.敌人AI
 
 <div align="center">
-  <img src="gif/第三人称射击/1.gif" alt="敌人AI行为树" width="550"/>
+  <img src="gif/第三人称射击/1.gif" alt="敌人AI行为树" width="800"/>
   <p style="font-size: 18px;"><strong>敌人AI行为树发现并发动攻击</strong></p>
 </div>
 
-### 朝向锁定
+### 2.朝向锁定
 <div align="center">
-  <img src="gif/第三人称射击/2.gif" alt="朝向锁定敌人" width="550"/>
+  <img src="gif/第三人称射击/2.gif" alt="朝向锁定敌人" width="800"/>
   <p style="font-size: 18px;"><strong>朝向锁定敌人</strong></p>
 </div>
 
-### 锁定攻击并追踪
+### 3.锁定攻击并追踪
 <div align="center">
-  <img src="gif/第三人称射击/3.gif" alt="锁定攻击" width="550"/>
+  <img src="gif/第三人称射击/3.gif" alt="锁定攻击" width="800"/>
   <p style="font-size: 18px;"><strong>锁定攻击有一定的追踪</strong></p>
 </div>
 

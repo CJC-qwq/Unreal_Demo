@@ -4,20 +4,57 @@
 
 ## 功能展示
 
-### 1.敌人AI
+### 1.角色开场动作
+
+<div align="center">
+  <img src="gif/第三人称射击/4.gif" alt="开场动作" width="1200"  height="auto"/>
+  <p style="font-size: 18px;"><strong>角色开场登场动作</strong></p>
+</div>
+
+### 2.角色行走和瞄准
+
+<div align="center">
+  <img src="gif/第三人称射击/2.gif" alt="角色行走和瞄准" width="1200"  height="auto"/>
+  <p style="font-size: 18px;"><strong>角色行走和瞄准</strong></p>
+</div>
+
+### 3.角色奔跑加速
+
+<div align="center">
+  <img src="gif/第三人称射击/7.gif" alt="角色奔跑加速" width="1200"  height="auto"/>
+  <p style="font-size: 18px;"><strong>角色奔跑加速</strong></p>
+</div>
+
+### 4.角色射击动作与特效
+
+<div align="center">
+  <img src="gif/第三人称射击/8.gif" alt="角色射击动作与特效" width="1200"  height="auto"/>
+  <p style="font-size: 18px;"><strong>角色射击动作与特效</strong></p>
+</div>
+
+### 5.敌人受击特效以及死亡动画
+
+<div align="center">
+  <img src="gif/第三人称射击/9.gif" alt="敌人受击特效以及死亡动画" width="1200"  height="auto"/>
+  <p style="font-size: 18px;"><strong>敌人受击特效以及死亡动画</strong></p>
+</div>
+
+### 6.敌人AI
 
 <div align="center">
   <img src="gif/第三人称射击/1.gif" alt="敌人AI行为树" width="1200"  height="auto"/>
   <p style="font-size: 18px;"><strong>敌人AI行为树发现并发动攻击</strong></p>
 </div>
 
-### 2.朝向锁定
+### 7.朝向锁定
+
 <div align="center">
   <img src="gif/第三人称射击/2.gif" alt="朝向锁定敌人" width="1200"  height="auto"/>
   <p style="font-size: 18px;"><strong>朝向锁定敌人</strong></p>
 </div>
 
-### 3.锁定攻击并追踪
+### 8.锁定攻击并追踪
+
 <div align="center">
   <img src="gif/第三人称射击/3.gif" alt="锁定攻击" width="1000"  height="auto"/>
   <p style="font-size: 18px;"><strong>锁定攻击有一定的追踪</strong></p>

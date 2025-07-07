@@ -7,13 +7,13 @@
 ### 1.敌人AI
 
 <div align="center">
-  <img src="gif/第三人称射击/1.gif" alt="敌人AI行为树" width="1000"  height="auto"/>
+  <img src="gif/第三人称射击/1.gif" alt="敌人AI行为树" width="1200"  height="auto"/>
   <p style="font-size: 18px;"><strong>敌人AI行为树发现并发动攻击</strong></p>
 </div>
 
 ### 2.朝向锁定
 <div align="center">
-  <img src="gif/第三人称射击/2.gif" alt="朝向锁定敌人" width="1000"  height="auto"/>
+  <img src="gif/第三人称射击/2.gif" alt="朝向锁定敌人" width="1200"  height="auto"/>
   <p style="font-size: 18px;"><strong>朝向锁定敌人</strong></p>
 </div>
 

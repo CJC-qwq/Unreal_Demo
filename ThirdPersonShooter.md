@@ -1,17 +1,27 @@
 # 第三人称射击Demo
 
-这个Demo展示了使用虚幻引擎5开发的第三人称射击游戏功能，包括射击、瞄准、武器切换等特性。
+这个Demo展示了使用虚幻引擎5开发的第三人称射击游戏功能，包括射击、瞄准、锁定等特性。
 
 ## 功能展示
 
-### 基础射击
-![基础射击功能](./gif/第三人称射击/1.gif)
+### 敌人AI
 
-### 武器特效
-![武器特效展示](./gif/第三人称射击/2.gif)
+<div align="center">
+  <img src="gif/第三人称射击/1.gif" alt="敌人AI行为树" width="550"/>
+  <p style="font-size: 18px;"><strong>敌人AI行为树发现并发动攻击</strong></p>
+</div>
 
-### 敌人交互
-![敌人交互](./gif/第三人称射击/3.gif)
+### 朝向锁定
+<div align="center">
+  <img src="gif/第三人称射击/2.gif" alt="朝向锁定敌人" width="550"/>
+  <p style="font-size: 18px;"><strong>朝向锁定敌人</strong></p>
+</div>
+
+### 锁定攻击并追踪
+<div align="center">
+  <img src="gif/第三人称射击/3.gif" alt="锁定攻击" width="550"/>
+  <p style="font-size: 18px;"><strong>锁定攻击有一定的追踪</strong></p>
+</div>
 
 ## 技术实现
 

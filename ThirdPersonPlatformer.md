@@ -63,9 +63,10 @@
 ### 8.特定交互控制其他角色
 
 <div align="center">
-  <img src="gif/第三人称闯关/8.gif" alt="特定交互控制其他角色 width="1000"  height="auto"/>
+  <img src="gif/第三人称闯关/8.gif" alt="特定交互控制其他角色" width="1200"  height="auto"/>
   <p style="font-size: 18px;"><strong>特定交互控制其他角色</strong></p>
 </div>
+
 
 ### 9.固定角色位置保持里世界使得电梯通道出现
 

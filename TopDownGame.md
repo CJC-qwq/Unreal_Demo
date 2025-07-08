@@ -16,7 +16,7 @@
 
 <div align="center">
   <img src="gif/俯视角/2.gif" alt="俯视透视" width="1200"  height="auto"/>
-  <p style="font-size: 18px;"><strong>角色开场登场动作</strong></p>
+  <p style="font-size: 18px;"><strong>俯视透视</strong></p>
 </div>
 
 ### 3.敌人AI以及受击效果
@@ -47,7 +47,7 @@
   <p style="font-size: 18px;"><strong>流星火雨</strong></p>
 </div>
 
-### 7.怪物清除进入下个关卡的动画展示
+### 7.掉落物自动拾取&&怪物清除进入下个关卡的动画展示
 
 <div align="center">
   <img src="gif/俯视角/7.gif" alt="怪物清除进入下个关卡的动画展示" width="1200"  height="auto"/>

@@ -12,6 +12,10 @@
   <p style="font-size: 18px;"><strong>攀爬动作</strong></p>
 </div>
 
+<div style="font-size: 24px;">
+<p>基于高级运动系统，通过UE5的动画重定向功能，使得不同外表、大小的人型骨骼能够自由应用该运动动画，能够进行奔跑、攀爬等功能。</p>
+</div>
+
 ### 2.表里世界切换
 
 <div align="center">
@@ -19,6 +23,9 @@
   <p style="font-size: 18px;"><strong>表里世界切换</strong></p>
 </div>
 
+<div style="font-size: 24px;">
+<p>当角色进入某个区域或者打开某个开关时，表里世界进行切换，原本表世界无法看见和触碰的物体能在里世界显现</p>
+</div>
 
 ### 3.相机拍摄、投影功能
 
@@ -27,11 +34,14 @@
   <p style="font-size: 18px;"><strong>相机拍摄再投影</strong></p>
 </div>
 
+<div style="font-size: 16px;">
+<p>当角色进入某个区域或者打开某个开关时，表里世界进行切换，原本表世界无法看见和触碰的物体能在里世界显现</p>
+</div>
 
 ### 4.投影出来的物质
 
 <div align="center">
-  <img src="gif/第三人称闯关/4.gif" alt="投影出来的物质" width="1200"  height="auto"/>
+  <img src="gif/第三人称闯关/4.gif" alt="投影出来的实物" width="1200"  height="auto"/>
   <p style="font-size: 18px;"><strong>投影出来的物质</strong></p>
 </div>
 

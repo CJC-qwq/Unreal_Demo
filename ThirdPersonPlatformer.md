@@ -27,7 +27,7 @@
   <img src="gif/第三人称闯关/3.gif" alt="相机拍摄再投影" width="1200"  height="auto"/>
   <p style="font-size: 18px;"><strong>相机拍摄再投影</strong></p>
 </div>
->
+
 
 ### 4.投影出来的物质
 

@@ -12,7 +12,7 @@
   <p style="font-size: 18px;"><strong>攀爬动作</strong></p>
 </div>
 
-<div style="font-size: 50px;">
+<div style="font-size: 18px;">
 <p>基于高级运动系统，通过UE5的动画重定向功能，使得不同外表、大小的人型骨骼能够自由应用该运动动画，能够进行奔跑、攀爬等功能。</p>
 </div>
 
@@ -23,8 +23,8 @@
   <p style="font-size: 18px;"><strong>表里世界切换</strong></p>
 </div>
 
-<div style="font-size: 50px;">
-<p>当角色进入某个区域或者打开某个开关时，表里世界进行切换，原本表世界无法看见和触碰的物体能在里世界显现</p>
+<div style="font-size: 18px;">
+<p>当角色进入某个区域或者打开某个开关时，表里世界进行切换，原本表世界无法看见和触碰的物体能在里世界显现。</p>
 </div>
 
 ### 3.相机拍摄、投影功能
@@ -35,7 +35,7 @@
 </div>
 
 <div style="font-size: 16px;">
-<p>当角色进入某个区域或者打开某个开关时，表里世界进行切换，原本表世界无法看见和触碰的物体能在里世界显现</p>
+<p>当角色进入某个区域或者打开某个开关时，表里世界进行切换，原本表世界无法看见和触碰的物体能在里世界显现。</p>
 </div>
 
 ### 4.投影出来的物质
@@ -44,7 +44,9 @@
   <img src="gif/第三人称闯关/4.gif" alt="投影出来的实物" width="1200"  height="auto"/>
   <p style="font-size: 18px;"><strong>投影出来的物质</strong></p>
 </div>
-
+<div style="font-size: 16px;">
+<p>投影出来的物质具有实体碰撞，但一旦切换世界就会消失。</p>
+</div>
 
 ### 5.利用表里世界特性制造陷阱
 
@@ -52,7 +54,9 @@
   <img src="gif/第三人称闯关/5.gif" alt="利用表里世界特性制造陷阱" width="1200"  height="auto"/>
   <p style="font-size: 18px;"><strong>利用表里世界特性制造陷阱</strong></p>
 </div>
-
+<div style="font-size: 16px;">
+<p>利用表里世界切换特定物质会消失的特点，使玩家在岔路选择时制造陷阱。</p>
+</div>
 
 ### 6.简单的平台移动设计
 
@@ -68,6 +72,13 @@
   <img src="gif/第三人称闯关/7.gif" alt="利用表里世界特性保证线性闯关" width="1200"  height="auto"/>
   <p style="font-size: 18px;"><strong>利用表里世界特性保证线性闯关</strong></p>
 </div>
+<div style="font-size: 16px;">
+<p>当玩家达到下一个区域时也利用了表里世界的特性使得闯关能以线性进行。</p>
+</div>
+
+<div style="font-size: 16px;">
+<p>传送门功能不仅能传送角色，还能通过渲染看到门对面的风景，在特定情况下能开启传送功能可以添加游玩性。（PS:传送门不仅可以传送角色，还可以传送任何设定好的Acotr）</p>
+</div>
 
 ### 8.特定交互控制其他角色
 
@@ -75,7 +86,9 @@
   <img src="gif/第三人称闯关/8.gif" alt="特定交互控制其他角色" width="1200"  height="auto"/>
   <p style="font-size: 18px;"><strong>特定交互控制其他角色</strong></p>
 </div>
-
+<div style="font-size: 16px;">
+<p>玩家可以通过与特定物品交互来控制另一个角色。</p>
+</div>
 
 ### 9.固定角色位置保持里世界使得电梯通道出现
 
@@ -84,11 +97,19 @@
   <p style="font-size: 18px;"><strong>固定角色位置保持里世界使得电梯通道出现</strong></p>
 </div>
 
+<div style="font-size: 16px;">
+<p>玩家通过控制另一个角色保持里世界的开启，让电梯通道显型</p>
+</div>
+
 ### 10.角色吸取和发射特定物体能力（某种情况可以使用）
 
 <div align="center">
   <img src="gif/第三人称闯关/10.gif" alt="角色吸取和发射特定物体能力" width="1200"  height="auto"/>
-  <p style="font-size: 18px;"><strong>角色吸取物体后发射物体，并在吸取未发射时持续跟随</strong></p>
+  <p style="font-size: 18px;"><strong>角色吸取物体后发射物体</strong></p>
+</div>
+
+<div style="font-size: 16px;">
+<p>在特定情况下，角色拥有吸取和发射特定物体的能力，并在吸取但未发射时持续跟随</p>
 </div>
 
 
@@ -98,7 +119,10 @@
   <img src="gif/第三人称闯关/11.gif" alt="利用发射能力实现远程开关" width="1200"  height="auto"/>
   <p style="font-size: 18px;"><strong>利用发射能力实现远程开关启动电梯</strong></p>
 </div>
->
+
+<div style="font-size: 16px;">
+<p>玩家可利用发射能力实现远程开关启动电梯</p>
+</div>
 
 ## 技术实现
 

@@ -12,7 +12,7 @@
   <p style="font-size: 18px;"><strong>攀爬动作</strong></p>
 </div>
 
-<div style="font-size: 24px;">
+<div style="font-size: 50px;">
 <p>基于高级运动系统，通过UE5的动画重定向功能，使得不同外表、大小的人型骨骼能够自由应用该运动动画，能够进行奔跑、攀爬等功能。</p>
 </div>
 
@@ -23,7 +23,7 @@
   <p style="font-size: 18px;"><strong>表里世界切换</strong></p>
 </div>
 
-<div style="font-size: 24px;">
+<div style="font-size: 50px;">
 <p>当角色进入某个区域或者打开某个开关时，表里世界进行切换，原本表世界无法看见和触碰的物体能在里世界显现</p>
 </div>
 

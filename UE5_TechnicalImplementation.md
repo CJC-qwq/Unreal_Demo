@@ -32,6 +32,21 @@
 ### 相机拍摄投影系统
 - **Scene Capture组件**：捕获拍摄对象的图像
 - **Dynamic Material Instance**：将捕获图像应用到投影物体表面
+- **Slice Procedural Mesh技术**：
+  - 使用Procedural Mesh Component动态生成投影物体网格
+  - 通过几何切片算法(Slice)处理捕获对象的形状信息
+  - 实现更精确的物体轮廓和适应性变形
+  - 支持复杂形状物体的真实投影和交互
+- **非破坏性切割与数据存储**：
+  - 使用碰撞检测确定切割平面与物体的交点
+  - 生成临时的切割几何数据但不应用于原物体
+  - 将切割结果保存在Actor Component的变量中
+  - 原物体保持视觉完整性，切割仅在数据层面完成
+- **延迟具象化机制**：
+  - 投影时通过SpawnActor从存储的几何数据构建新物体
+  - 使用Runtime Mesh Construction实时生成切割后的网格
+  - 应用与原物体相同的材质但通过材质参数控制透明度和视觉效果
+  - 实现"拍摄-存储-投影"的完整工作流
 - **Actor Spawning机制**：基于原始物体生成投影物体
 - **物理模拟延迟激活**：使用Set Actor Enable Collision延迟开启碰撞
 
